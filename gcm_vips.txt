@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"An export was added to deliver a VIP from another resource. Please refer to the documentation."}
+{"version":"1.0.3", "notes":"New feature to add permanent VIPs. Please refer to the documentation."}
