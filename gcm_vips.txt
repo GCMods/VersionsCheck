@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"New feature to add permanent VIPs. Please refer to the documentation."}
+{"version":"1.0.4", "notes":"The issues with permanent VIPs have been resolved. Logs have been added for code redemptions. Now the public event also runs with code redemptions. Fix Paycheck system"}
