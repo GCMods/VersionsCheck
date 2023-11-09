@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":""}
+{"version":"1.0.1", "notes":"New debug function in the dashboard, new exports and events. For more info go to https://discord.gg/DQrz4UzQAC"}
